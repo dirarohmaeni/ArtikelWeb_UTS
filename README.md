@@ -36,9 +36,14 @@ Aplikasi chat sederhana berbasis WebSocket yang memungkinkan komunikasi real-tim
 
 ## 📸 Hasil Aplikasi
 
-![foto]()
-![foto]()
-![foto]()
+*Chat 1*
+![foto](https://github.com/dirarohmaeni/ArtikelWeb_UTS/blob/53e2f38a5fd56f5c9a05da1b3a03fdd575ef1da6/WEB_UTS/image1.png)
+
+*Chat 2*
+![foto](https://github.com/dirarohmaeni/ArtikelWeb_UTS/blob/53e2f38a5fd56f5c9a05da1b3a03fdd575ef1da6/WEB_UTS/image2.png)
+
+*Plagiarisme*
+![foto](https://github.com/dirarohmaeni/ArtikelWeb_UTS/blob/53e2f38a5fd56f5c9a05da1b3a03fdd575ef1da6/WEB_UTS/image3.png)
 
 ---
 
