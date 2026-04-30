@@ -36,7 +36,7 @@ Aplikasi chat sederhana berbasis WebSocket yang memungkinkan komunikasi real-tim
 
 ## 📸 Hasil Aplikasi
 
-(Tambahkan screenshot di sini jika ingin lebih lengkap)
+
 
 ---
 
@@ -51,6 +51,3 @@ Link artikel Medium:
 ## 👤 Author
 
 Dira Rohmaeni
-
----
-
