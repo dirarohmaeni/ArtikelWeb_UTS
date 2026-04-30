@@ -57,4 +57,6 @@ Link artikel Medium:
 
 ## 👤 Author
 
-Dira Rohmaeni
+Nama:Dira Rohmaeni
+NIM: 312410465
+Kelas: I241E
